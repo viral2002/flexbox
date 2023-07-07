@@ -1,0 +1,37 @@
+body{
+    background-color: #fff;
+    color: aliceblue;
+}
+.footer{
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.container{
+    background-color: #1b2124;
+    margin-top: 300px;
+    margin-left: 0px;
+    margin-right: 0px;
+   margin-bottom: 0px;
+   justify-content: center;
+   width: 100vw;
+   position: fixed;
+
+}
+.logo{
+    width: 200px;
+    height: 100px;
+}
+hr{
+    margin-right: 50%;
+    border: 1px solid #fff;
+}
+.title{
+    font-size: 25px;
+}
+.mail{
+    margin-top: 4px;
+    margin-bottom: 60px;
+}
